@@ -2,6 +2,7 @@
 Small C programs
 
 --------------------------------------------------Temperature.c---------------------------------------------------------------
+
 The program prompt the user to input the number of days, the high and low for each.
 
 Define and implement highestTemp function with one input parameter “double high[]”
