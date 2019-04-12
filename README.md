@@ -19,6 +19,17 @@ arrays. The function should return a double that is the mean (average) temperatu
 period entered by the user.
 
 --------------------------------------------------sales.c instructions---------------------------------------------------------------
+SKU   Price   On Sale   Description (max 28 chars)
+283   3.45    No        garden shears
+496   7.89    No        work gloves
+784   6.50    No        sun hat
+674   22.98   No        watering hose
+298   16.47   No        watering can
+681   33.25   Yes       hose nozzle
+348   12.35   No        small rake
+495   15.00   No        large rake
+743   14.99   Yes       trowel
+185   71.60   No        lawn mower
 
 Customers who are younger than 18 are assumed to be students and get a 15% discount off the
 base price of the item to be purchased,
